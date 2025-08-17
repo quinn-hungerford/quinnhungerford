@@ -26,7 +26,7 @@ The work that excites me most is **hands-on, interdisciplinary, and impact-drive
   *R, Shiny, dplyr, ggplot2, Excel, ETL*  
   Engineered an interactive, actively used Shiny app with an automated ETL pipeline to monitor KPIs (sales, attendance, volunteer engagement, and social reach), featuring dynamic filters, multi-dataset selection, and real-time trend visualization.  
 
-- **[ASA DataFest at SMU 2024](https://github.com/quinn-hungerford/asa-datafest-smu)**  
+- **[ASA DataFest at SMU 2024](https://github.com/quinn-hungerford/asa-datafest-smu) – Digital Textbook Cheating Detection and Engagement Analysis**  
   *R, randomForest, tidyverse*  
   Designed a Random Forest anomaly detection model by integrating six datasets (~246k logs), engineering 20+ features, and flagging 5.6% of students for potential cheating while uncovering other content issues and engagement drop-off trends.  
 
