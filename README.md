@@ -22,7 +22,7 @@ The work that excites me most is **hands-on, interdisciplinary, and impact-drive
   *R, Python, DeepSurv, RSF, CSF*  
   Developed a survival analysis framework integrating DeepSurv, Random Survival Forests, and Causal Survival Forests to estimate 30–180 day survival and model heterogeneous treatment effects in the SUPPORT dataset.  
 
-- **UT Farm Stand – Market Analytics Dashboard**  
+- **[UT Farm Stand – Market Analytics Dashboard](https://github.com/quinn-hungerford/utfs-analytics-dashboard)**  
   *R, Shiny, dplyr, ggplot2, Excel, ETL*  
   Engineered an interactive, actively used Shiny app with an automated ETL pipeline to monitor KPIs (sales, attendance, volunteer engagement, and social reach), featuring dynamic filters, multi-dataset selection, and real-time trend visualization.  
 
