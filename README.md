@@ -9,7 +9,7 @@
 
 ## More About Me
 
-**Statistics and Data Science at UT Austin** | Business Minor | Computer Science Certificate
+**Statistics and Data Science at UT Austin** | Business Minor | Computer Science Certificate | Graduating May 2027
 
 Passionate about applying data science to solve real-world problems in a variety of industries!
 The work that excites me most is **hands-on, interdisciplinary, and impact-driven**.
